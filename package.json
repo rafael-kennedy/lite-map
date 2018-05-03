@@ -1,0 +1,23 @@
+{
+  "name": "lite-map",
+  "version": "0.0.0",
+  "description": "A lightweight svg-based geographic map utility",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest src"
+  },
+  "keywords": [
+    "map",
+    "geojson",
+    "svg",
+    "projection"
+  ],
+  "author": "Rafael Kennedy",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
+}
